@@ -69,3 +69,20 @@ The project is deployed using Vercel.
 ## Project Status
 
 Completed and deployed as a portfolio project.
+## 📸 Preview
+
+### Hero
+
+![Artisan Bakery Hero](./screenshots/hero.png)
+
+### Signature Collection
+
+![Artisan Bakery Collections](./screenshots/collection.png)
+
+### Our Story
+
+![Artisan Bakery Story](./screenshots/our-story.png)
+
+### Mobile
+
+![Artisan Bakery Mobile](./screenshots/mobile.png)
