@@ -1,16 +1,71 @@
-# React + Vite
+# Artisan Bakery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive artisan bakery website built with React and Vite, designed with a warm editorial aesthetic for a modern bakery brand.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Artisan Bakery is a modern bakery website created as a portfolio project for a small-batch bakery brand.
 
-## React Compiler
+The website focuses on a warm, elegant visual experience while keeping the layout responsive and easy to navigate across desktop, tablet, and mobile devices.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+* Responsive desktop, tablet, and mobile design
+* Editorial-style bakery aesthetic
+* Hero section
+* Featured bakery products
+* About / Our Story section
+* Customer testimonials
+* Call-to-action section
+* Contact form with required fields
+* Smooth navigation between sections
+* Reusable React components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+* React
+* Vite
+* JavaScript
+* CSS
+
+## Project Structure
+
+The project is organized into reusable React components, including:
+
+* Navbar
+* Hero
+* Featured Products
+* Product Card
+* About
+* Testimonials
+* CTA
+* Contact
+* Footer
+
+## Getting Started
+
+Clone the repository and install the dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+## Deployment
+
+The project is deployed using Vercel.
+
+## Project Status
+
+Completed and deployed as a portfolio project.
